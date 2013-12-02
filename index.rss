@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Adam McGreggor's Git Achievements</title>
+<title>adam mcgreggor's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
-<item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Pedantic (Level 6)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Pedantic (Level 5)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Pedantic (Level 4)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Historian (Level 3)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Apprentice Pedantic (Level 3)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Pedantic (Level 2)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Apprentice Pedantic (Level 1)</title><description>Use the flow extension to encourage an orderly and standardized branching model</description></item>
-<item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Gipsy (Level 3)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Gipsy (Level 2)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
-<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
-<item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Stone Mason (Level 3)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
+<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 </channel></rss>
